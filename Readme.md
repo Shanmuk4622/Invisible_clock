@@ -80,9 +80,6 @@ Uncomment this line in final.py:
 The video will be saved as **output.avi** in the current directory.
 
 ---
-## 📸 Demo
-<!-- You can add a GIF or image here to showcase the effect -->
-
 ### 📌 Notes
 Ensure the background remains static during the first few seconds.
 
